@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A1_maliha33473692</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_csv_utils">CsvUtils</string>
+    <string name="title_activity_food_intake_questionnaire_screen">FoodIntakeQuestionnaireScreen
+    </string>
+    <string name="title_activity_persona_info_modal">PersonaInfoModal</string>
+    <string name="title_activity_app_utils">AppUtils</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_my_bottom_bar">MyBottomBar</string>
+    <string name="title_activity_insights_screen">InsightsScreen</string>
+</resources>
